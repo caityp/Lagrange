@@ -32,20 +32,20 @@ forest lands. It also meant an opportunity to reconnect with friends and family
 scattered across the U.S., as well as appreciation for the hospitality of all-but-strangers
 on my route.
 
-###Savannah###
-#<figure>
-#  <img src="{{site.url}}/assets/img/windows.jpg"/>
-#</figure>
+###Savannah
+<figure>
+  <img src="{{site.url}}/assets/img/windows.jpg"/>
+</figure>
 Only a few hours drive from my family home in Florida, Savannah had long called
 to me for its air of history and mystery. This abandoned building almost seemed
 like an intentional design element. I stayed in Savannah only for the afternoon,
 before driving to Washington, D.C. to pick up an old college friend and spend the
 night at her cousins'.
 
-###Versailles###
-#<figure>
-#  <img src="{{site.url}}/assets/img/horses.jpg"/>
-#</figure>
+###Versailles
+<figure>
+  <img src="{{site.url}}/assets/img/horses.jpg"/>
+</figure>
 After spending a day in Blacksburg, Virginia, for a college-buddy reunion and catch-up
 marathon (complete with rocking chairs and front porch), I drove through West Virginia
 to the town of Versailles, outside of Lexington, Kentucky. My dad has a veterinary
