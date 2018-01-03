@@ -4,7 +4,7 @@ title: "Welcome to Field notes"
 author: "Caity Peterson"
 categories: journal
 tags: [sample]
-image: mountains.jpg
+image: notes.JPG
 ---
-Welcome to the repository of musings and ruminations - field notes from a
+Welcome to a repository of musings and ruminations - field notes from a
 wandering ecologist.
