@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to Field notes"
+title: "Welcome to Field Notes"
 author: "Caity Peterson"
 categories: journal
 tags: [sample]
