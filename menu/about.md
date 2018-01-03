@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About the author
+title: "About the author"
 tags: [documentation]
-image: author1.jpg
+image: author1.JPG
 ---
 
 Hi, I'm Caity. While earning my Ph.D. in Ecology at the University of California, Davis, I write on a variety of topics ranging from the intersection of ecology and agriculture, world travels, and the great outdoors to ruminations on science, policy, food systems, and nature.
