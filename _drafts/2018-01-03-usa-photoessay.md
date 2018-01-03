@@ -32,7 +32,7 @@ forest lands. It also meant an opportunity to reconnect with friends and family
 scattered across the U.S., as well as appreciation for the hospitality of all-but-strangers
 on my route.
 
-###Savannah
+### Savannah
 <figure>
   <img src="{{site.url}}/assets/img/windows.jpg"/>
 </figure>
@@ -42,7 +42,7 @@ like an intentional design element. I stayed in Savannah only for the afternoon,
 before driving to Washington, D.C. to pick up an old college friend and spend the
 night at her cousins'.
 
-###Versailles
+### Versailles
 <figure>
   <img src="{{site.url}}/assets/img/horses.jpg"/>
 </figure>
