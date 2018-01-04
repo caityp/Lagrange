@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Hotel Wherever: a photo essay"
+title: "Hotel Wherever"
+description: "The perks of ditching the key card"
 author: "Caity Peterson"
 categories: photoessay
 tags: [nature]
@@ -32,27 +33,54 @@ forest lands. It also meant an opportunity to reconnect with friends and family
 scattered across the U.S., as well as appreciation for the hospitality of all-but-strangers
 on my route.
 
-### Savannah
+### Savannah, GA
 <figure>
   <img src="{{site.url}}/assets/img/windows.jpg"/>
+  <figcaption>An abandoned building in downtown Savannah, GA. Photo: C. Peterson</figcaption>
 </figure>
 Only a few hours drive from my family home in Florida, Savannah had long called
-to me for its air of history and mystery. This abandoned building almost seemed
-like an intentional design element. I stayed in Savannah only for the afternoon,
-before driving to Washington, D.C. to pick up an old college friend and spend the
-night at her cousins'.
+to me for its air of history and mystery. I spent the afternoon walking a zigzag through every block in downtown before driving to Washington, D.C. to pick up an old college friend and spend the
+night at her cousins'. A mini-reunion ensued the next day, when we drove halfway across Virginia to Blacksburg, the home town of another college friend. Our trio of former roommates and/or teammates sat in rocking chairs on front porches and yarned our way through several years of unshared history, so that we might feel ourselves to live in the same universe again.
 
-### Versailles
+### Versailles, KY
 <figure>
   <img src="{{site.url}}/assets/img/horses.jpg"/>
+  <figcaption>Horses on a farm outside Versailles, KY. Photo: C. Peterson</figcaption>
 </figure>
-After spending a day in Blacksburg, Virginia, for a college-buddy reunion and catch-up
-marathon (complete with rocking chairs and front porch), I drove through West Virginia
-to the town of Versailles, outside of Lexington, Kentucky. My dad has a veterinary
-practice back home, and his original business partner and family had moved here
-years ago. They count among my family's oldest friends, having raised their children
-alongside my brothers and I. I knew they had a small farm in Versailles and had visited
+I then drove through West Virginia to the town of Versailles, outside of Lexington, Kentucky. My dad has a veterinary practice back home, and his first business partner and family had moved here
+years ago. My family counts them among our oldest friends, having raised their children
+alongside my brothers and I. I knew they had a small cattle farm in Versailles and had visited
 them once with my mother, many years ago. They hosted me for two nights in their
 18th century farmhouse, regaling me with family memories, hauling me along on the
 day's farm operations, and sending me along with a jar of freshly canned tomato
 salsa from their garden.
+
+### Birdseye, IN
+<figure>
+  <img src="{{site.url}}/assets/img/horses.jpg"/>
+  <figcaption>Storefronts in downtown Birdseye, IN. Photo: C. Peterson</figcaption>
+</figure>
+
+### Broken Bow, NE
+<figure>
+  <img src="{{site.url}}/assets/img/sandhill.jpg"/>
+  <figcaption>Sandhill country outside Broken Bow, NE. Photo: C. Peterson</figcaption>
+</figure>
+
+### Alliance, NE
+<figure>
+  <img src="{{site.url}}/assets/img/horses.jpg"/>
+  <figcaption>Horses on a farm outside Versailles, KY. Photo: C. Peterson</figcaption>
+</figure>
+
+### Casper, WY
+<figure>
+  <img src="{{site.url}}/assets/img/ranch.jpg"/>
+  <figcaption>Horses on a farm outside Versailles, KY. Photo: C. Peterson</figcaption>
+</figure>
+
+### The Loneliest Road
+<figure>
+  <img src="{{site.url}}/assets/img/shoetree.jpg"/>
+  <figcaption>Horses on a farm outside Versailles, KY. Photo: C. Peterson</figcaption>
+</figure>
