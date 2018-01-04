@@ -5,16 +5,16 @@ subtitle: "Cardiales"
 author: "Caity Peterson"
 categories: journal
 tags: [Brazil]
-image: truck.jpg
+image: tupatruck.jpg  
 ---
 
 When you spend enough time at Tupã, everything you own begins to take on the particular tone of ochre that characterizes the region’s iron-rich soil. Your clothes become stained and will likely never revert to their original color. Your shower water runs red with the clay and silt lodged in every wrinkle in your skin. All that was once white will be so no longer. Even the sheep look as though they belong to an odd, local breed, their wool tinted red and their knees, like a toddler’s, permanently dirtied.
 
-I wish I had the gift of some writers who carry whole worlds in their imagination. So flush are they with creation that characters, lands, and languages spring as if unbidden from the edge of their conscious mind. I am merely a recorder. I write what I see when I find something beautiful. I take down conversations and events when they charm me. When they illuminate me, when they tell me something about the world. Or when they strike me as palpably real. When they exemplify goodness, or sadness, or the way things are. I will always be a naturalist, I suppose: collecting things and finding the right name for them. What follows
+I wish I had the gift of some writers who carry whole worlds in their imagination. So flush are they with creation that characters, lands, and languages spring as if unbidden from the edge of their conscious mind. I am merely a recorder. I write what I see when I find something beautiful. I take down conversations and events when they charm me. When they illuminate me, when they tell me something about the world. Or when they strike me as palpably real. When they exemplify goodness, or sadness, or the way things are. I will always be a naturalist, I suppose: collecting things and finding the right name for them. What follows is a record of my summer in Tupã.
 
-### #1 Cardiales
+### #1. Cardiales
 
-I’m still tired from end-of-year travel and the exhausting 10-hour drive to the fazenda. But it was up at 4:30 this morning and out to the experiment. We couldn’t find one of the stakes that marks where to set up the tripods. And the leaves were so wet with dew that we had to forget about the pressure bomb and come back later. And then the truck didn’t start and we had to walk back to the fazneda for help only to find out that it was only the contact on the battery that had jiggled loose. Oh, and by now it was 11 in the afternoon and I still hadn’t eaten breakfast or brushed my teeth. And then the afternoon was so hot but we went out and dug holes and pressure bombed more leaves. I at least had a chance to take a long nap in my hammock, or just long enough before we went out again to collect the tripods for the night.
+I’m still tired from end-of-year travel and the exhausting 10-hour drive to the fazenda. But it was up at 4:30 this morning and out to the experiment. We couldn’t find one of the stakes that marks where to set up the tripods. And the leaves were so wet with dew that we had to forget about the pressure bomb and come back later. And then the truck didn’t start and we had to walk back to the fazenda for help only to find out that it was only the contact on the battery that had jiggled loose. Oh, and by now it was 11 in the afternoon and I still hadn’t eaten breakfast or brushed my teeth. And then the afternoon was so hot but we went out and dug holes and pressure bombed more leaves. I at least had a chance to take a long nap in my hammock, or just long enough before we went out again to collect the tripods for the night.
 
 Sometimes this work seems so hard. I doubt myself so much. I wonder if I’m just killing myself to collect crappy data that won’t even be useable in the end. Times like this when I wish I had someone telling me what to do. Being in charge is hard.
 
