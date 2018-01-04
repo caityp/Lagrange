@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hotel Wherever"
-description: "The perks of ditching the key card"
+subtitle: "The perks of ditching the key card"
 author: "Caity Peterson"
 categories: photoessay
 tags: [nature]
