@@ -5,7 +5,7 @@ subtitle: "The perks of ditching the key card"
 author: "Caity Peterson"
 categories: photoessay
 tags: [nature]
-image: wyoming.JPG
+image: wyoming2.JPG
 ---
 
 I've had enough of hotels in this short lifetime. Weekends traveling to games
@@ -74,14 +74,14 @@ From Kansas I cut north through Nebraska, aiming for Wyoming. I camped on state 
 ### Alliance, NE
 <figure>
   <img src="{{site.url}}/assets/img/carhenge.jpg"/>
-  <figcaption>Horses on a farm outside Versailles, KY. Photo: C. Peterson</figcaption>
+  <figcaption>Carhenge. Photo: C. Peterson</figcaption>
 </figure>
 A friend from home learned I was in Nebraska and sent a text, "You have to go see Carhenge!" It was just the sort of wacky thing that he would know about. I never knew it was there, would never have visited it otherwise, but what excuse did I have for missing it?
 
 ### Casper, WY
 <figure>
   <img src="{{site.url}}/assets/img/ranch.jpg"/>
-  <figcaption>Horses on a farm outside Versailles, KY. Photo: C. Peterson</figcaption>
+  <figcaption>The Allemand Ranch, outside of Casper, WY. Photo: C. Peterson</figcaption>
 </figure>
 My dad hadn't spoken to Bill Allemand since he was a teenager. His father (my grandfather), Doc, and Bill had been hunting buddies since before he'd been born. Dad drove to the Allemand Ranch from Washington, Iowa, some summers to help with the cattle branding, and sure enough, when he called the Allemands out of the blue to tell them I was passing through Casper, they remembered Doc and his son. I was ushered into their home like the heiress to the throne. Proudly, the Allemands pointed out Casper's dinosaur bones, oil rigs, and uranium boxes. They drove me to the ranch, where it was 10 miles from the mailbox to the house. I was given the keys to an atv and escorted to where my grandfather and Bill always used to set up camp when out deer hunting. I was left there with my tent and the atv, and told to stay as long as I like.
 
@@ -92,7 +92,7 @@ From Casper I cut south through the panhandle of Utah, camping again in the cris
 ### The Loneliest Road
 <figure>
   <img src="{{site.url}}/assets/img/shoetree.jpg"/>
-  <figcaption>Horses on a farm outside Versailles, KY. Photo: C. Peterson</figcaption>
+  <figcaption>An unexpected find off Highway 50. Photo: C. Peterson</figcaption>
 </figure>
 
 ### Davis, CA
