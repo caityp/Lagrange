@@ -69,7 +69,7 @@ In St. Louis, MO, I spent the night at the home of a friend's parents. Grabbed a
   <img src="{{site.url}}/assets/img/sandhill.jpg"/>
   <figcaption>Sandhill country outside Broken Bow, NE. Photo: C. Peterson</figcaption>
 </figure>
-From Kansas I cut north through Nebraska, aiming for Wyoming. I camped on state forest land just outside of Broken Bow, and moved on early the next day.
+From Kansas I cut north through Nebraska, aiming for Wyoming. I camped on national forest land just outside of Broken Bow, and moved on early the next day.
 
 ### Alliance, NE
 <figure>
@@ -83,20 +83,23 @@ A friend from home learned I was in Nebraska and sent a text, "You have to go se
   <img src="{{site.url}}/assets/img/ranch.jpg"/>
   <figcaption>The Allemand Ranch, outside of Casper, WY. Photo: C. Peterson</figcaption>
 </figure>
-My dad hadn't spoken to Bill Allemand since he was a teenager. His father (my grandfather), Doc, and Bill had been hunting buddies since before he'd been born. Dad drove to the Allemand Ranch from Washington, Iowa, some summers to help with the cattle branding, and sure enough, when he called the Allemands out of the blue to tell them I was passing through Casper, they remembered Doc and his son. I was ushered into their home like the heiress to the throne. Proudly, the Allemands pointed out Casper's dinosaur bones, oil rigs, and uranium boxes. They drove me to the ranch, where it was 10 miles from the mailbox to the house. I was given the keys to an atv and escorted to where my grandfather and Bill always used to set up camp when out deer hunting. I was left there with my tent and the atv, and told to stay as long as I like.
+My dad hadn't spoken to Bill Allemand since he was a teenager. His father (my grandfather), Doc, and Bill had been hunting buddies since before he'd been born. Dad drove to the Allemand Ranch from Washington, Iowa, some summers to help with the cattle branding, and sure enough, when he called the Allemands out of the blue to tell them I was passing through Casper, they remembered Doc and his son. I was ushered into their home like the heiress to the throne. Proudly, the Allemands pointed out Casper's dinosaur bones, oil rigs, and uranium boxes. They drove me to the ranch, where they said it was 10 miles from the mailbox to the house. I was given the keys to an ATV and escorted to where my grandfather and Bill always used to set up camp when out deer hunting. I was left there with my tent and the ATV, and told to stay as long as I like.
 
-Reassuring, I thought, that they didn't find it odd that I should want to camp there when there was a warm bed in Casper at my disposal. Reassuring that they didn't think I would mind the snakes and the solitude and the sound of the coyotes barking at dusk. I didn't. It was empty and beautiful, and I hiked the ridges and hollows and clambered over the boulders and through the pine woods where I imagined my grandfather might have seen a buck on a cold fall morning.
+Reassuring, I thought, that they didn't find it odd that I should want to camp there when there was a warm bed in Casper at my disposal. Reassuring that they didn't think I would mind the snakes and the solitude and the sound of the coyotes barking at dusk. I didn't. It was empty, but not lonely, and beautiful. I hiked the ridges and hollows and clambered over the boulders and through the pine woods where I imagined my grandfather might have seen a buck on a cold fall morning.
 
-From Casper I cut south through the panhandle of Utah, camping again in the crisp, damp mountain forests outside of Salt Lake City. I woke early for the long drive ahead, stopping at an eccentric coffee shop in ___ for coffee and breakfast before pointing my nose towards Highway 50 and a straight shot through the desert.
+From Casper I cut south through the panhandle of Utah, camping again in the crisp, damp mountain forests outside of Salt Lake City. I woke early for the long drive ahead, stopping at an eccentric coffee shop in Fillmore for coffee and breakfast before pointing my nose towards Highway 50 and a straight shot through the desert.
 
 ### The Loneliest Road
 <figure>
   <img src="{{site.url}}/assets/img/shoetree.jpg"/>
   <figcaption>An unexpected find off Highway 50. Photo: C. Peterson</figcaption>
 </figure>
+I chose the Highway 50 route over the slightly more direct and faster Highway 80 precisely because it was less direct and slower. I learned that Highway 50 is called "The Loneliest Road," for reasons not too difficult to fathom. It seemed the most appropriate route for its loneliness, and I yearned for a breath, a pause, to assimilate my journey and prepare for the switch to the next part of my life. A long stretch of emptiness was exactly what I needed.  
 
 ### Davis, CA
 <figure>
   <img src="{{site.url}}/assets/img/pumpkins.jpg"/>
 </figure>
-Made it to Davis just in time for pumpkin season.
+I crossed the Sierra Nevadas and arrived in Davis just in time for pumpkin season.
+
+Admittedly, there are many easier ways I could have driven across the U.S. But my slightly meandering and often indeterminate route led to a few things that a pre-fabricated journey, hopscotching from hotel to hotel and gas station to gas station, would never have brought. A college reunion, for one. Several perfect, cloudless, star-strewn nights for another. Re-forged connections with friends and family from Washington, D.C. to Wyoming. A number of unplanned itinerary stops, including a life-sized replica of Stonehenge made from defunct vehicles. Places that were once points on a map, now associated with a cup of perfect coffee or a friendly front door. For the cost of a few extra miles out of my way I learned the texture of a vast expanse of my country. I've left my key card at reception, and I won't be needing it back. 
