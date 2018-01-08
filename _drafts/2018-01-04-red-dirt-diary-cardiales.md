@@ -8,7 +8,7 @@ tags: [Brazil]
 image: tupatruck.jpg  
 ---
 
-When you spend enough time at Tupã, everything you own begins to take on the particular tone of ochre that characterizes the region’s iron-rich soil. Your clothes become stained and will likely never revert to their original color. Your shower water runs red with the clay and silt lodged in every wrinkle in your skin. All that was once white will be so no longer. Even the sheep look as though they belong to an odd, local breed, their wool tinted red and their knees, like a toddler’s, permanently dirtied.
+When you spend enough time at Tupã, everything you own begins to take on the particular tone of ochre that characterizes the region’s iron-rich soil. Your clothes become stained and will likely never revert to their original color. Your shower water runs red with the clay and silt lodged in every wrinkle in your skin. Even the sheep look as though they belong to an odd, local breed, their wool tinted red and their knees, like a toddler’s, permanently dirtied.
 
 I wish I had the gift of some writers who carry whole worlds in their imagination. So flush are they with creation that characters, lands, and languages spring as if unbidden from the edge of their conscious mind. I am merely a recorder. I write what I see when I find something beautiful. I take down conversations and events when they charm me. When they illuminate me, when they tell me something about the world. Or when they strike me as palpably real. When they exemplify goodness, or sadness, or the way things are. I will always be a naturalist, I suppose: collecting things and finding the right name for them. What follows is a record of my summer in Tupã.
 
