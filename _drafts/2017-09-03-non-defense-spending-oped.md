@@ -4,7 +4,7 @@ title: "In defense of non-defense"
 subtitle: "Opinion piece featured in the Ocala Star Banner"
 author: "Caity Peterson"
 categories: feature
-tags: [science][political]
+tags: [science,political]
 image: silversprings.jpg
 ---
 *A paddler enjoys Silver Springs State Park in Marion County, FL, on a wintry day. Photo: C. Peterson.*
