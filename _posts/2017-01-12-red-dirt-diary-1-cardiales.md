@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Red Dirt Diary #1"
-subtitle: *Cardiales*
+subtitle: "Cardiales"
 author: "Caity Peterson"
 categories: journal
 tags: [Brazil]
