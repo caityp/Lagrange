@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "In defense of non-defense"
+title: "In Defense of Non-Defense"
 subtitle: "Opinion piece featured in the Ocala Star Banner"
 author: "Caity Peterson"
 categories: feature
