@@ -5,7 +5,7 @@ subtitle: Sombra
 author: "Caity Peterson"
 categories: journal
 tags: [Brazil]
-image:
+image: sombra.jpg     
 ---
 On the day that Ike died, I tried unsuccessfully to hide my dejection from the other folks on the *fazenda*. My faithful blue merle, the first dog that was ever mine, had died of old age on my parents' farm while I was off in this remote corner of Brazil.
 
@@ -25,6 +25,6 @@ When I got to Ester's house that day, she was ready with juice and my favorite s
 
 José giggled and winked at me. Ester smiled slyly. It was a thinly veiled joke, as everyone knew that Sombra could be tiresome with her constant begging to play fetch. Sure, why don’t you take her off our hands? But, joke or not, I had a soft spot for Sombra and Ester knew it. It was, I thought, the sweetest gesture anyone had made for me in a long time.
 
-Every time I pull up to Ester's house in my dirty white truck, Sombra and her partner in crime, Ticaba, run around the corner of the house to greet me, tongues lolling. *Clunk* goes the precious rock deposited carefully on the bed of the truck. 
+Every time I pull up to Ester's house in my dirty white truck, Sombra and her partner in crime, Ticaba, run around the corner of the house to greet me, tongues lolling. *Clunk* goes the precious rock deposited carefully on the bed of the truck.
 
 "Sombra!” I call. “You’re mine now, did you know that? You’re mine!” I toss the slobbery rock down the dirt road and wait for her to bring it back.
