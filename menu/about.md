@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "About the author"
-tags: [documentation]
 image: author1.JPG
 ---
 *In Parque Nacional Natural El Cocuy, Boyaca, Colombia. Photo: C. Peterson*
