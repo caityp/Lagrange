@@ -1,6 +1,6 @@
 # External gems
 # See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
-plugins_dir: [jekyll-paginate, jekyll-sitemap]
+plugins: [jekyll-paginate, jekyll-sitemap]
 #  - jekyll-archives # Sorry, not GitHub pages friendly!
 
 
@@ -24,7 +24,7 @@ logo: "/assets/logo.jpg"
 # Build settings
 markdown: kramdown
 paginate: 5
-paginate_path: "/page:num/"
+permalink: "/page:num/"
 inter_post_navigation: false
 highlightjs_theme: "monokai-sublime"
 
