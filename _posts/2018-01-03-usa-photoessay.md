@@ -3,8 +3,8 @@ layout: post
 title: "Hotel Wherever"
 subtitle: "The perks of ditching the key card"
 author: "Caity Peterson"
-categories: photoessay
-tags: [nature]
+categories: world
+tags: 
 image: wyoming2.JPG
 ---
 
@@ -86,6 +86,6 @@ I chose the Highway 50 route over the slightly more direct and faster Highway 80
 </figure>
 I crossed the threshold - the Sierra Nevadas - and arrived in Davis just in time for pumpkin season.
 
-Admittedly, there are many easier ways I could have driven across the U.S. But my slightly meandering and often indeterminate route led to a few things that a pre-fabricated journey, hopscotching from hotel to hotel and gas station to gas station, would never have brought. A college reunion, for one. Several perfect, cloudless, star-strewn nights for another. Re-forged connections with friends and family from Washington, D.C. to Wyoming. A number of unplanned itinerary stops, including a life-sized replica of Stonehenge made from defunct vehicles. Places that were once points on a map, now associated with a cup of perfect coffee or a friendly front door. For the cost of a few extra miles out of my way I learned the texture and uniqueness of a vast expanse of my country. 
+Admittedly, there are many easier ways I could have driven across the U.S. But my slightly meandering and often indeterminate route led to a few things that a pre-fabricated journey, hopscotching from hotel to hotel and gas station to gas station, would never have brought. A college reunion, for one. Several perfect, cloudless, star-strewn nights for another. Re-forged connections with friends and family from Washington, D.C. to Wyoming. A number of unplanned itinerary stops, including a life-sized replica of Stonehenge made from defunct vehicles. Places that were once points on a map, now associated with a cup of perfect coffee or a friendly front door. For the cost of a few extra miles out of my way I learned the texture and uniqueness of a vast expanse of my country.
 
 I've left my key card at reception, and I won't be needing it back.

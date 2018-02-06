@@ -3,8 +3,8 @@ layout: post
 title: "Red Dirt Diary #2"
 subtitle: "Atardecer"
 author: "Caity Peterson"
-categories: journal
-tags: [Brazil]
+categories: [world,science]
+tags: Brazil
 image: atardecer.jpg  
 ---
 Finally, the wind started to blow. It probably meant rain, which of course, is not so great for my experiment. But it also meant that the insupportable humidity was blown away and the temperature finally dropped. I could move again. I rolled down the window and stuck my face out like a happy puppy as we trundled down the pot-holed road to the experiment.

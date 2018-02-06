@@ -3,8 +3,8 @@ layout: post
 title: "Red Dirt Diary #1"
 subtitle: "Cardiales"
 author: "Caity Peterson"
-categories: journal
-tags: [Brazil]
+categories: [world,science,nature]
+tags: Brazil
 image: tupatruck.jpg  
 ---
 

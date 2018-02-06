@@ -3,8 +3,8 @@ layout: post
 title: "Red Dirt Diary #3"
 subtitle: Sombra
 author: "Caity Peterson"
-categories: journal
-tags: [Brazil]
+categories: world
+tags: Brazil
 image: sombra.jpg     
 ---
 On the day that Ike died, I tried unsuccessfully to hide my dejection from the other folks on the *fazenda*. My faithful blue merle, the first dog that was ever mine, had died of old age on my parents' farm while I was off in this remote corner of Brazil.
