@@ -1,17 +1,13 @@
 ---
 layout: page
-title: About
+title: "About the author"
 permalink: /about/
+image: author1.JPG
 ---
+*In Parque Nacional Natural El Cocuy, Boyaca, Colombia. Photo: C. Peterson*
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+Hi, I'm Caity. While earning my Ph.D. in Ecology at the University of California, Davis, I write on a variety of topics ranging from the intersection of ecology and agriculture, world travels, and the great outdoors to ruminations on science, policy, food systems, and nature.
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+In my spare time I am a freelance science writer and technical editor working in English, Spanish, and Portuguese. Feel free to [contact me ](mailto:ca.peterson32@gmail.com) or check out my [Linkedin](https://www.linkedin.com/in/caityp/) profile for more info.
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
-
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
-
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+*This website was built using the* **[Lagrange](https://lenpaul.github.io/Lagrange/)** *[Jekyll](https://jekyllrb.com/) theme.*
