@@ -39,7 +39,7 @@ highlightjs_theme: "monokai-sublime"
 #    tag: '/tag/:name/'
 
 # Disqus comments
-# disqus_shortname: caitypeterson
+ disqus_shortname: caitypeterson
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
